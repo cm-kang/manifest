@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project path="device/lge/e975" name="Kevindeving/android_device_lge_e975" revision="cm-11.0" />
-  <project path="device/lge/gproj-common" name="Kevindeving/android_device_lge_gproj-common" revision="cm-11.0" />
-  <project path="kernel/lge/gproj" name="Kevindeving/lge-kernel-gproj" revision="cm-11.0" />
+  <project path="device/lge/e975" name="cm-kang/android_device_lge_e975" revision="cm-11.0" />
+  <project path="device/lge/gproj-common" name="cm-kang/android_device_lge_gproj-common" revision="cm-11.0" />
+  <project path="kernel/lge/gproj" name="cm-kang/lge-kernel-gproj" revision="cm-11.0" />
 </manifest>
