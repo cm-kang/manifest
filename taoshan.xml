@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="cm-kang/android_device_sony_taoshan" path="device/sony/taoshan" remote="github" />
+  <project name="CyanogenMod/android_device_sony_common" path="device/sony/common" remote="github" />
+  <project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="github" />
+  <project name="CyanogenMod/android_device_sony_qcom-common" path="device/sony/qcom-common" remote="github" />
+  <project name="cm-kang/android_kernel_sony_msm8930" path="kernel/sony/msm8930" remote="github" />
+</manifest>
